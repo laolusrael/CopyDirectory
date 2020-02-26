@@ -1,0 +1,7 @@
+C:\Users\laolu\source\repos\CopyDirectory\CopyDirectory.Library\bin\Debug\CopyDirectory.Library.xml
+C:\Users\laolu\source\repos\CopyDirectory\CopyDirectory.Library\bin\Debug\CopyDirectory.Library.dll
+C:\Users\laolu\source\repos\CopyDirectory\CopyDirectory.Library\bin\Debug\CopyDirectory.Library.pdb
+C:\Users\laolu\source\repos\CopyDirectory\CopyDirectory.Library\obj\Debug\CopyDirectory.Library.csprojAssemblyReference.cache
+C:\Users\laolu\source\repos\CopyDirectory\CopyDirectory.Library\obj\Debug\CopyDirectory.Library.csproj.CoreCompileInputs.cache
+C:\Users\laolu\source\repos\CopyDirectory\CopyDirectory.Library\obj\Debug\CopyDirectory.Library.dll
+C:\Users\laolu\source\repos\CopyDirectory\CopyDirectory.Library\obj\Debug\CopyDirectory.Library.pdb
